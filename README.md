@@ -20,4 +20,4 @@ My work sits at the intersection of scientific computing, statistics, and softwa
 ### Elsewhere
 - Personal site: [sarahedraves.github.io](https://sarahedraves.github.io/)  
 - LinkedIn: [/in/sarahedraves](https://www.linkedin.com/in/sarahedraves/)
-- Resume: [link](https://sarahedraves.github.io/assets/draves_resume.pdf)
+- Resume: [link](https://sarahedraves.github.io/resume)
