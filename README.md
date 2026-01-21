@@ -18,5 +18,6 @@ My work sits at the intersection of scientific computing, statistics, and softwa
 - Computational Astrophysics Class — final project, homework, and class notes from a class at the CUNY Graduate Center focused on numerical solving and simulation methods. [Code repo](https://github.com/sarahedraves/Draves-GCComputationalAstrophysics).
 
 ### Elsewhere
-- 🌐 Personal site: [sarahedraves.github.io](https://sarahedraves.github.io/)  
-- 💼 LinkedIn: [/in/sarahedraves](https://www.linkedin.com/in/sarahedraves/)
+- Personal site: [sarahedraves.github.io](https://sarahedraves.github.io/)  
+- LinkedIn: [/in/sarahedraves](https://www.linkedin.com/in/sarahedraves/)
+- Resume: [link](https://sarahedraves.github.io/assets/draves_resume.pdf)
