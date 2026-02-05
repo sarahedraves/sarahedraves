@@ -13,9 +13,9 @@ My work sits at the intersection of scientific computing, statistics, and softwa
 - Software: Tableau Desktop, Tableau Prep, Snowflake, Excel, Salesforce
 
 ### Selected Projects
-- Gotham Web Lab Research — recovering cosmic filaments in 2D with the Legacy Survey of Space and Time. Code split into three repos based on where it is designed to run: [NERSC](https://github.com/sarahedraves/nersc-code), [Rubin Science Platform](https://github.com/sarahedraves/LSST_Data), and [offline](https://github.com/sarahedraves/FilamentAnalysis).  
-- BDNYC Group Research — collecting and analyzing the light curves of ~200 complex rotator M dwarf stars with K2 and TESS. [Code repo](https://github.com/sarahedraves/SRMP-JMAG-Sarah). 
-- Computational Astrophysics Class — final project, homework, and class notes from a class at the CUNY Graduate Center focused on numerical solving and simulation methods. [Code repo](https://github.com/sarahedraves/Draves-GCComputationalAstrophysics).
+- Gotham Web Lab Research: recovering cosmic filaments in 2D with the Legacy Survey of Space and Time. Code split into three repos based on where it is designed to run: [NERSC](https://github.com/sarahedraves/nersc-code), [Rubin Science Platform](https://github.com/sarahedraves/LSST_Data), and [offline](https://github.com/sarahedraves/FilamentAnalysis).  
+- BDNYC Group Research: collecting and analyzing the light curves of ~200 complex rotator M dwarf stars with K2 and TESS. [Code repo](https://github.com/sarahedraves/SRMP-JMAG-Sarah). 
+- Computational Astrophysics Class: final project, homework, and class notes from a class at the CUNY Graduate Center focused on numerical solving and simulation methods. [Code repo](https://github.com/sarahedraves/Draves-GCComputationalAstrophysics).
 
 ### Elsewhere
 - Personal site: [sarahedraves.github.io](https://sarahedraves.github.io/)  
